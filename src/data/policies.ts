@@ -122,7 +122,7 @@ export const policies: PolicyDocument[] = [
         heading: '4. Retrasos en la entrega',
         paragraphs: [
           'Los clientes podrán solicitar un reembolso completo del valor pagado por el envío cuando este experimente un retraso superior a setenta y dos (72) horas respecto de la fecha estimada de entrega comunicada al momento de la compra.',
-          'El retraso se calcula tomando como referencia la fecha estimada de entrega registrada en el sistema, sin importar el estado operativo en el que se encuentre el paquete en dicho momento.',
+          'El retraso se debe comunicar a nuestros asistentes por los canales oficiales esto con el fin de realizar el desembolso de manera inmediata una vez se comunique la situación.',
         ],
       },
       {
